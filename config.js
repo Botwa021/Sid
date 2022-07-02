@@ -5,60 +5,60 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6285828764046'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6288233832771'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6288233832771'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6288233832771'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
-global.numberowner = '6285828377610' //ganti pakai nomor mu
-global.instagram = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
-global.github = 'https://github.com/Botynyakamu' //ganti aja pakai githubmu
-global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/' //ganti aja pakai tiktok mu
-global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
-global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
-global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
+global.nameowner = 'zul-md'
+global.numberowner = '6288233832771' //ganti pakai nomor mu
+global.instagram = 'https://instagram.com/mursid.st' //ganti pakai Instagram mu
+global.github = 'https://github.com/Botwa021' //ganti aja pakai githubmu
+global.tt = 'https://vt.tiktok.com' //ganti aja pakai tiktok mu
+global.sc = 'https://youtube.com' //jngn ganti hargai creator
+global.ss = 'https://youtube.com' //jngn ganti hargai creator
+global.sss = 'https://youtube.com' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '085828764046' //ganti pakai nomor dana mu
-global.pulsa = '085828764046' //ganti pakai nomor pulsa mu
-global.gopay = '085828764046' //ganti pakai nomor Gopay mu
+global.dana = '088233832771' //ganti pakai nomor dana mu
+global.pulsa = '088233832771' //ganti pakai nomor pulsa mu
+global.gopay = '088233832771' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv' //ganti pakai grup mu
-global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
-global.saweria = 'https://saweria.co/zifabotz123' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6285787476829' //ganti jadi nomor mu
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.namebot = 'zull-bot' //ganti jadiin nama bot mu
+global.gc = 'https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau' //ganti pakai grup mu
+global.web = 'Botwa021.github.io' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/mursid.st' //ganti pakai Instagram mu
+global.saweria = 'https://saweria.co/mursid25' //bebas ganti aja pakai apa
+global.nomer = 'https://wa.me/6288233832771' //ganti jadi nomor mu
+global.price1 = 'LIST HARGA\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti pakai foto bot mu
-global.fotonya3 = 'https://telegra.ph/file/4c7b1f58bb1832ecd9c1d.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/b90ac0b67473356ef980d.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/88a4f6a6247d90433508a.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/29bb316ba4424c23346fa.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/459fa21043a73dc4147e8.jpg' //ini juga ganti
-global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto payment atau apa
+global.fotonya1 = 'https://telegra.ph/file/f8a1b984a287fa705fd7a.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/f8a1b984a287fa705fd7a.jpg' //ini juga ganti pakai foto bot mu
+global.fotonya3 = 'https://telegra.ph/file/f8a1b984a287fa705fd7a.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/f8a1b984a287fa705fd7a.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/f8a1b984a287fa705fd7a.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/f8a1b984a287fa705fd7a.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/f8a1b984a287fa705fd7a.jpg' //ini juga ganti
+global.fotonya8 = 'https://telegra.ph/file/f8a1b984a287fa705fd7a.jpg' //foto session
+global.donasi = 'https://telegra.ph/file/f8a1b984a287fa705fd7a.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '© Mursid S'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm2 = '© Mursid S'
+global.wm3 = '© Mursid S'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/f8a1b984a287fa705fd7a.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
-global.eror = '_*🚨 Server Bot Sedang Error*_'
+global.wait = '⏳Tunggu. . .'
+global.eror = '_*🚨 Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Zifabotz'
-global.author = '@rozi'
+global.stiker_wait = '⏳ Proses...'
+global.packname = '2022'
+global.author = '© Forgotten Zul'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
