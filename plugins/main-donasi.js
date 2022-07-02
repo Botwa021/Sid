@@ -2,21 +2,7 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
-Hallo mypren 👋
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-┏━━━〔 ıll *DONATE* llı 〕━━❑
-⬡ *DANA:* ${dana}
-⬡ *GOPAY:* ${gopay}
-⬡ *OVO:* ${pulsa}
-┗━━━━━━━━━━━━━━━━━━❑
-┏━━〔 ıll *THANKS TO* llı 〕━❑
-⬡ team creator-creator
-⬡ team yang sudah berdonasi
-┗━━━━━━━━━━❑
-Berapapun donasi kalian akan sangat berarti 👍
-Terimakasih yang sudah mendonasikan untuk bot
-Contact person Owner:
-wa.me/${numberowner} (Owner)
+dana 088233832771
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(donasi)).buffer()}, { upload: conn.waUploadToServer }) 
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
@@ -27,14 +13,14 @@ wa.me/${numberowner} (Owner)
            hydratedFooterText: '📮 Silahkan pilih Command Dibawah ini',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'Saweria🐈',
-               url: saweria
+               displayText: 'menu',
+               url: menu 
              }
 
            },
                 {
                urlButton: {
-               displayText: '😼Whatsapp creator😼',
+               displayText: 'wa',
                url: nomer
              }
 
@@ -42,7 +28,7 @@ wa.me/${numberowner} (Owner)
                {
              quickReplyButton: {
                displayText: 'sewa',
-               id: '.sewazifa',
+               id: '.sewa',
              }
              
            },
